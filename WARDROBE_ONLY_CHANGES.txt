@@ -1,0 +1,10 @@
+This personal build is based on the supplied SillyWardrobe source archive.
+
+Changes:
+- Kept the original wardrobe modal, layout, tabs, cards, bottom shirt button, maintenance tools and gallery.
+- Removed wardrobe generation / try-on entry points and generation/provider/vision imports from the active wardrobe module.
+- Simplified index.js so it initializes only wardrobe and gallery.
+- Disabled manifest auto-update.
+- Added multiple visual references per outfit: image, name, description, enabled flag.
+- Added a small reference editor to the original outfit form.
+- Existing upstream generator-related source files are left on disk but are not imported or initialized, to avoid breaking dependencies.

@@ -1,0 +1,16 @@
+{
+    "display_name": "SillyWardrobe — Wardrobe & References",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Personal fork",
+    "version": "1.0.0",
+    "homePage": "https://github.com/",
+    "auto_update": false,
+    "i18n": {
+        "ru-ru": "i18n/ru-ru.json",
+        "uk-ua": "i18n/uk-ua.json"
+    }
+}
