@@ -1,0 +1,10 @@
+{
+    "display_name": "SillyWardrobe — Reference Manager",
+    "loading_order": 100,
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Personal fork / clean-room implementation",
+    "version": "3.0.0",
+    "homePage": "https://github.com/",
+    "auto_update": false
+}
