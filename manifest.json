@@ -1,0 +1,9 @@
+{
+  "display_name": "Wardrobe Reference Manager",
+  "loading_order": 100,
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Open-source community implementation",
+  "version": "1.0.0",
+  "homePage": "https://github.com/your-name/sillytavern-wardrobe-reference-manager"
+}
